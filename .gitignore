@@ -1,0 +1,40 @@
+# Environnements Python
+.venv/
+venv/
+env/
+# Caches et compilation
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.cache/
+.ipynb_checkpoints/
+.coverage
+htmlcov/
+# Secrets et configuration locale
+.streamlit/secrets.toml
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+# Fichiers temporaires et journaux
+*.lock
+*.tmp
+*.temp
+*.log
+*.bak
+*.swp
+*~
+# Système et éditeurs
+.DS_Store
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.idea/
+.vscode/
+# Artefacts de construction
+dist/
+build/
+*.egg-info/

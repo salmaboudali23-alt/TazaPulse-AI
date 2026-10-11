@@ -1,0 +1,151 @@
+text,label
+الما تقطع لينا فالدار,EAU
+ما عندناش الما فالدوار,EAU
+الما ما جا من الصباح,EAU
+الروبيني ما كيخرج والو,EAU
+كاين تسرب ديال الما فالزنقة,EAU
+الما ضعيف بزاف فالحي,EAU
+الما جاي موسخ وريحتو خايبة,EAU
+القادوس ديال الما مكسور,EAU
+بغينا الما يرجع للديور,EAU
+الما كيتقطع كل نهار,EAU
+انقطاع الماء عن المنازل منذ أمس,EAU
+لا تتوفر مياه الشرب في الحي,EAU
+تسرب المياه من قناة مكسورة,EAU
+ضعف ضغط الماء في الشبكة,EAU
+الماء غير صالح للشرب بسبب الرائحة,EAU
+انفجار أنبوب الماء قرب المنازل,EAU
+صنبور عمومي لا يعمل,EAU
+الماء مقطوع في القرية,EAU
+تلوث مياه الشرب في المنطقة,EAU
+نحتاج إلى إصلاح شبكة المياه,EAU
+Coupure d'eau dans notre quartier,EAU
+Le robinet reste sec ce matin,EAU
+Une fuite sur le réseau d'eau potable,EAU
+La pression de l'eau est trop faible,EAU
+L'eau du robinet a une odeur inhabituelle,EAU
+Une canalisation d'eau est cassée,EAU
+Les maisons sont privées d'eau potable,EAU
+Nous subissons des coupures d'eau répétées,EAU
+L'alimentation en eau est interrompue,EAU
+La borne fontaine ne distribue plus d'eau,EAU
+الطريق خاسرة بزاف,VOIRIE
+كاينة حفرة كبيرة وسط الزنقة,VOIRIE
+الزنقة عامرة بالحفر,VOIRIE
+الطريق تقطعات من الشتا,VOIRIE
+القنطرة فيها تشققات,VOIRIE
+الرصيف مهرس قدام الدار,VOIRIE
+الطريق مسدودة بالحجر,VOIRIE
+خاص يتصلح الزفت ديال الطريق,VOIRIE
+كاينة حفرة قدام المدرسة,VOIRIE
+الطريق ولات صعيبة على الطوموبيلات,VOIRIE
+الطريق متضررة وتحتاج إلى إصلاح,VOIRIE
+حفرة عميقة في الشارع الرئيسي,VOIRIE
+تشققات في الرصيف تعيق المشاة,VOIRIE
+انهيار جزء من الطريق بعد المطر,VOIRIE
+الحجارة تغلق الطريق المؤدية للقرية,VOIRIE
+الجسر به تشققات واضحة,VOIRIE
+الشارع مليء بالحفر الخطيرة,VOIRIE
+تضرر الإسفلت أمام المدرسة,VOIRIE
+انجراف التربة قطع المسلك,VOIRIE
+الرصيف مكسور قرب السوق,VOIRIE
+La chaussée est très abîmée,VOIRIE
+Un nid de poule se trouve devant l'école,VOIRIE
+La route est dégradée sur plusieurs mètres,VOIRIE
+Le trottoir est cassé près du marché,VOIRIE
+Des pierres bloquent la route,VOIRIE
+Le pont présente des fissures,VOIRIE
+Un trou profond gêne les voitures,VOIRIE
+La route s'est affaissée après la pluie,VOIRIE
+Il faut réparer le revêtement de la chaussée,VOIRIE
+La piste vers le village est impraticable,VOIRIE
+الزبل مجموع فالحي,DECHETS
+الزبالة بقات هنا بزاف,DECHETS
+الطراش عامر وما جا حتى حد يديه,DECHETS
+الزبل كيخرج ريحة خايبة,DECHETS
+كاينة كومة ديال الزبل حدا السوق,DECHETS
+خاص الزنقة تتنقى من الزبل,DECHETS
+ما دازش كاميو ديال الزبل,DECHETS
+الزنقة عامرة بالوسخ,DECHETS
+الزبالة حد المدرسة من ثلاثة ايام,DECHETS
+الزبل مرمي حدا الديور,DECHETS
+تراكم النفايات في الحي منذ أيام,DECHETS
+حاويات القمامة ممتلئة,DECHETS
+لم تمر شاحنة جمع النفايات,DECHETS
+رائحة كريهة بسبب القمامة,DECHETS
+انتشار الأزبال بالقرب من السوق,DECHETS
+النفايات المنزلية لم تجمع,DECHETS
+نحتاج إلى تنظيف الشارع,DECHETS
+مخلفات متراكمة أمام المدرسة,DECHETS
+القمامة منتشرة على الرصيف,DECHETS
+حاوية النفايات تفيض منذ أسبوع,DECHETS
+Les ordures s'accumulent près des maisons,DECHETS
+Les poubelles débordent depuis cinq jours,DECHETS
+Le camion de collecte ne passe plus,DECHETS
+Des déchets jonchent la rue,DECHETS
+Une odeur provient des tas d'ordures,DECHETS
+Le quartier a besoin de nettoyage,DECHETS
+Les bacs à déchets sont pleins,DECHETS
+Des ordures sont abandonnées près du marché,DECHETS
+La collecte des déchets est interrompue,DECHETS
+Les déchets ménagers restent devant l'école,DECHETS
+المصباح ما خدامش فالزنقة,ECLAIRAGE
+الضو ديال الزنقة طافي,ECLAIRAGE
+المصابيح كاملين طافيين,ECLAIRAGE
+الزنقة ظلام فالليل,ECLAIRAGE
+البوطو ديال الضو طايح,ECLAIRAGE
+اللامبة ديال الشارع محروقة,ECLAIRAGE
+الضو العمومي كيشعل ويطفى,ECLAIRAGE
+المصابيح ما خدامينش حدا الدار,ECLAIRAGE
+السلك ديال ضو الزنقة خارج,ECLAIRAGE
+خاص يتصلح الضو فالشارع,ECLAIRAGE
+مصابيح الإنارة العمومية معطلة,ECLAIRAGE
+الشارع مظلم في الليل,ECLAIRAGE
+عمود الإنارة متضرر,ECLAIRAGE
+انقطاع الإنارة عن الحي,ECLAIRAGE
+مصباح الشارع لا يشتغل,ECLAIRAGE
+أسلاك عمود الإنارة مكشوفة,ECLAIRAGE
+أضواء الشارع تنطفئ باستمرار,ECLAIRAGE
+الإنارة ضعيفة قرب المدرسة,ECLAIRAGE
+نحتاج إلى إصلاح مصابيح الشارع,ECLAIRAGE
+عمود الإضاءة مائل ويهدد المارة,ECLAIRAGE
+Le lampadaire ne fonctionne plus,ECLAIRAGE
+L'éclairage public est en panne,ECLAIRAGE
+La rue reste dans le noir la nuit,ECLAIRAGE
+Un poteau d'éclairage est tombé,ECLAIRAGE
+Les lampes de la rue sont éteintes,ECLAIRAGE
+Un câble dépasse du lampadaire,ECLAIRAGE
+L'ampoule du réverbère est grillée,ECLAIRAGE
+Les lumières publiques clignotent,ECLAIRAGE
+L'éclairage près de l'école est insuffisant,ECLAIRAGE
+Plusieurs lampadaires sont défectueux,ECLAIRAGE
+ما كاينش النقل من الدوار للمدينة,TRANSPORT
+الطوبيس ما جاش اليوم,TRANSPORT
+ما عندنا حتى وسيلة نقل,TRANSPORT
+الطوبيسات كيجيوا عامرين,TRANSPORT
+النقل المدرسي ما كاينش,TRANSPORT
+الطاكسيات ما كيوصلوش للدوار,TRANSPORT
+خاصنا طوبيس باش نمشيو للمدينة,TRANSPORT
+كنبقاو نتسناو النقل ساعات,TRANSPORT
+الطوبيس كيتعطل كل صباح,TRANSPORT
+محطة النقل بعيدة على السكان,TRANSPORT
+لا تتوفر وسائل النقل إلى المدينة,TRANSPORT
+الحافلة تتأخر كثيرا,TRANSPORT
+غياب النقل المدرسي في القرية,TRANSPORT
+خط الحافلات لا يخدم المنطقة,TRANSPORT
+اكتظاظ حافلات النقل العمومي,TRANSPORT
+نحتاج إلى رحلات إضافية للحافلات,TRANSPORT
+محطة الحافلات بعيدة عن السكان,TRANSPORT
+انقطاع خدمة النقل بين القرية والمدينة,TRANSPORT
+سيارات الأجرة لا تصل إلى المنطقة,TRANSPORT
+انتظار طويل لوسيلة نقل,TRANSPORT
+Aucun bus ne dessert notre village,TRANSPORT
+Le transport vers la ville est absent,TRANSPORT
+Les autobus sont toujours en retard,TRANSPORT
+Le ramassage scolaire n'est pas assuré,TRANSPORT
+Les bus sont surchargés le matin,TRANSPORT
+Il manque une liaison de transport rural,TRANSPORT
+Les taxis ne desservent pas cette zone,TRANSPORT
+L'arrêt de bus est trop éloigné,TRANSPORT
+Nous attendons le bus depuis deux heures,TRANSPORT
+La fréquence des transports est insuffisante,TRANSPORT

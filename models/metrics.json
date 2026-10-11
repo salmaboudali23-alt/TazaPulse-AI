@@ -1,0 +1,52 @@
+{
+  "accuracy": 0.7368421052631579,
+  "test_size": 38,
+  "training_size": 112,
+  "synthetic_only": true,
+  "report": {
+    "DECHETS": {
+      "precision": 0.6666666666666666,
+      "recall": 0.5,
+      "f1-score": 0.5714285714285714,
+      "support": 8.0
+    },
+    "EAU": {
+      "precision": 0.875,
+      "recall": 1.0,
+      "f1-score": 0.9333333333333333,
+      "support": 7.0
+    },
+    "ECLAIRAGE": {
+      "precision": 0.6153846153846154,
+      "recall": 1.0,
+      "f1-score": 0.7619047619047619,
+      "support": 8.0
+    },
+    "TRANSPORT": {
+      "precision": 1.0,
+      "recall": 0.625,
+      "f1-score": 0.7692307692307693,
+      "support": 8.0
+    },
+    "VOIRIE": {
+      "precision": 0.6666666666666666,
+      "recall": 0.5714285714285714,
+      "f1-score": 0.6153846153846154,
+      "support": 7.0
+    },
+    "accuracy": 0.7368421052631579,
+    "macro avg": {
+      "precision": 0.7647435897435897,
+      "recall": 0.7392857142857142,
+      "f1-score": 0.7302564102564102,
+      "support": 38.0
+    },
+    "weighted avg": {
+      "precision": 0.7644230769230769,
+      "recall": 0.7368421052631579,
+      "f1-score": 0.7279352226720648,
+      "support": 38.0
+    }
+  },
+  "sklearn_version": "1.9.1"
+}
